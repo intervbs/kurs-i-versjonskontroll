@@ -1,5 +1,8 @@
 Dette er en tekstfil
 
+
 Denne linja kan du endre!!!!!!11111oneoneone
+Denne linjen er endret av jon
+
 
 Hilsen Jon
